@@ -248,18 +248,4 @@ Manage Order Status:
 
 **Baad Pranavi Pradip**
 
-B.Tech – Computer Science & Engineering
 
-Walchand College of Engineering, Sangli
-
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a **⭐ Star** on GitHub.
-
----
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
