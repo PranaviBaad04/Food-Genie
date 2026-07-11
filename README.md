@@ -156,7 +156,7 @@ Manage Order Status:
 
 # 📸 Project Demo
 
-## 🏠 Home Page
+## 🏠 Register Page
 
 ![Home](images/register_user.png)
 
@@ -194,43 +194,33 @@ Manage Order Status:
 
 ## 🤖 AI Recommendation
 
-![AI Recommendation](images/ai.png)
+![AI Recommendation](images/AI_recomdation.png)
 
----
-
-## 👤 User Profile
-
-![Profile](images/profile.png)
 
 ---
 
 ## 📜 Order History
 
-![Order History](images/order-history.png)
+![Order History](images/orders.png)
 
 ---
 
 ## 👨‍💼 Admin Dashboard
 
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](images/admin_dashboard.png)
 
----
-
-## 📊 Revenue Analytics
-
-![Revenue Analytics](images/revenue.png)
 
 ---
 
 ## 🏪 Restaurant Management
 
-![Restaurant Management](images/restaurant-management.png)
+![Restaurant Management](images/add_restruarant.png)
 
 ---
 
 ## 🍔 Food Management
 
-![Food Management](images/food-management.png)
+![Food Management](images/food_item_ai_description.png)
 
 ---
 
@@ -240,11 +230,6 @@ Manage Order Status:
 
 ---
 
-## 👥 User Management
-
-![User Management](images/users.png)
-
----
 
 # 🚀 Future Enhancements
 
