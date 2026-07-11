@@ -194,7 +194,7 @@ Manage Order Status:
 
 ## 🤖 AI Recommendation
 
-![AI Recommendation](images/AI_recomdation.png)
+![AI Recommendation](images/AI_recomendation.png)
 
 
 ---
