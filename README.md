@@ -158,13 +158,13 @@ Manage Order Status:
 
 ## 🏠 Home Page
 
-![Home](images/home.png)
+![Home](images/register_user.png)
 
 ---
 
 ## 🔐 Login Page
 
-![Login](images/login.png)
+![Login](images/login_user.png)
 
 ---
 
@@ -176,7 +176,7 @@ Manage Order Status:
 
 ## 🍴 Restaurant Menu
 
-![Restaurant Menu](images/restaurant-menu.png)
+![Restaurant Menu](images/menu.png)
 
 ---
 
@@ -188,7 +188,7 @@ Manage Order Status:
 
 ## 💳 Stripe Payment
 
-![Stripe Payment](images/payment.png)
+![Stripe Payment](images/stripe.png)
 
 ---
 
